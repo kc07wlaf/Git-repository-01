@@ -4,3 +4,9 @@ This is a new file created a new branch named BranchAfter3rdFile
 
 
 What happened to the content I added before?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Checked out the first branch created. Edit was made to this file.
+
+Changes made under the second branch is not supposed to show up here, correct?
